@@ -81,3 +81,10 @@ what is missing?
 - Folder page for todos
 - some style stuff
 - a script to make it run on linux machines (it was made while i was on a windows machine)
+
+
+## HOW TO RUN
+
+If for some reason you want to run this project, all you need to have is php, node and a mysql database configured with the settings that you can see on the .env file.
+You also need to configure the use of pdo extension for mysql on php.ini.
+To run go to the todolist root folder and run "php artisan serve" and "npm start" or "npm run hot".
