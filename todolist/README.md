@@ -64,3 +64,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## ABOUT THIS PROJECT
+
+
+This project was made using laravel 8 and php 8. Also was used using Vue.js 2.x. The database uses mysql 8.
+
+There is no make or any script to run it (didn't have time to make it right now)
+
+This project is just a skeleton of what a todoapp would be, and it was made on the purpose of learning a bit of Vue.js and to get practice using Laravel.
+
+what is missing? 
+
+- Login page
+- Folder page for todos
+- some style stuff
+- a script to make it run on linux machines (it was made while i was on a windows machine)
